@@ -1,0 +1,24 @@
+{
+    "name": "circularText",
+    "title": "jQuery Circular Text",
+    "version": "0.1.0",
+    "description": "A plugin to render text along a circular path, creating a fancy button effect.",
+    "keywords": [
+        "animation",
+        "canvas"
+    ],
+    "author": {
+        "name": "Sam Hodges"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/ananabag/jquery.circularText/blob/master/LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.9.0"
+    },
+    "homepage": "https://github.com/ananabag/jquery.circularText",
+    "docs": "https://github.com/ananabag/jquery.circularText"
+}
