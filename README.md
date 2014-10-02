@@ -27,7 +27,7 @@ HTML:
     
 ## Screenshot
 
-![Circular text image](https://github.com/ananabag/jquery.circularText/images/sceenshot.png)
+![Circular text image](https://raw.githubusercontent.com/ananabag/jquery.circularText/master/images/sceenshot.png)
 
 ## License
 
