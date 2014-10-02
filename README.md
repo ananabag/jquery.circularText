@@ -20,10 +20,14 @@ HTML:
 </ul>
 ```
 
-# Reference
+## Reference
 **Options :**
 
     * `speed` : The rotational speed when using the animate option.
+    
+## Screenshot
+
+![Circular text image](https://github.com/ananabag/jquery.circularText/images/sceenshot.png)
 
 ## License
 
